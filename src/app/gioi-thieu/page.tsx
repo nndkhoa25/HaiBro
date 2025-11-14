@@ -15,7 +15,7 @@ const AboutPage = () => {
           </Slide>
           <Fade triggerOnce delay={1e3} cascade damping={1e-1}>
             <p className="text-gray-700 leading-relaxed mb-4">
-              <span className="text-secondary font-bold">HAI BRO</span> ra đời
+              <span className="font-bold">HAI BRO</span> ra đời
               từ niềm đam mê bất tận với cà phê và khát khao tạo nên một không
               gian ấm áp, nơi mọi người có thể kết nối, chia sẻ và lưu giữ những
               khoảnh khắc đáng nhớ.
